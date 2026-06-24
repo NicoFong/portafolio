@@ -1,16 +1,64 @@
-# React + Vite
+PORTAFOLIO PERSONAL
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Este es mi portafolio web desarrollado con React + Vite,
+donde muestro mis proyectos, habilidades y experiencia como desarrollador.
+──────────────────────────────────────
+TECNOLOGÍAS UTILIZADAS
 
-Currently, two official plugins are available:
+React  
+Vite  
+JavaScript (ES6+)  
+HTML5  
+CSS3  
+──────────────────────────────────────
+VISTA PREVIA
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+(Agrega aquí una captura de tu portafolio)
+──────────────────────────────────────
+ESTRUCTURA DEL PROYECTO
 
-## React Compiler
+src/
+ ┣ assets/
+ ┣ components/
+ ┣ App.jsx
+ ┣ main.jsx
+ ┗ index.css
+──────────────────────────────────────
+INSTALACIÓN Y EJECUCIÓN
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+1. Clonar el repositorio
+git clone https://github.com/NicoFong/portafolio.git
 
-## Expanding the Oxlint configuration
+2. Entrar a la carpeta
+cd portafolio
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+3. Instalar dependencias
+npm install
+
+4. Ejecutar proyecto
+npm run dev
+──────────────────────────────────────
+DESPLIEGUE
+
+Vercel  
+Netlify  
+GitHub Pages  
+──────────────────────────────────────
+FUNCIONALIDADES
+
+Diseño responsivo  
+Sección de proyectos  
+Información personal  
+Interfaz moderna con React  
+──────────────────────────────────────
+AUTOR
+
+Nicolas Fong  
+Frontend Developer
+
+GitHub:
+https://github.com/NicoFong
+──────────────────────────────────────
+NOTAS
+
+Este proyecto está en constante mejora y puede recibir nuevas funcionalidades.
